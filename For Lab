@@ -1,0 +1,27 @@
+<html>
+    <body>
+        <h1> A Personal Tour Of Asa Smith </h1> 
+        <ol>
+            <li><h2> Favorite Sports </h2></li>
+               
+            <li><h2> Favorite Authors/Books</h2></li>
+                <table>
+                <tr>
+                <th scope="row">Authors:</th>
+                <td>Kurt Vonnegut,</td>
+                <td>Ray Bradbury,</td>
+                <td>Peter Leeson</td>
+                </tr>
+                <tr>
+                <th scope="row">Books</th>
+                <td>Cat's Cradle,</td>
+                <td>The Illustrated Man,</td>
+                <td>The Bridge of San Luis Rey,</td>
+                </tr>
+                </table>
+            <li><h2> Bucket List Of Countries to Visit</h2></li>
+        
+        
+        </ol>
+    </body>
+</html>
